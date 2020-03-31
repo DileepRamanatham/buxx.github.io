@@ -6,6 +6,7 @@
     <title>Contact - Buxx Official</title>
     <meta charset="utf-8">
     <meta name="description" content="">
+	<meta name="Referrer" content="origin">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Calling Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="img/favicon.png">
@@ -143,17 +144,17 @@
                     <div class="contact-form bg-green mt-md-45" data-overlay="8" style="background-image: url('img/bg/bg-testi.jpg');">
                         <div class="z-5">
                             <h3 class="fs-28 f-900 black mb-20">Get in Touch with Us</h3>
-							<form action="http://formspree.io/dileep.ramanatham@gmail.com" method="POST">
+				<form action="https://formspree.io/dileep.ramanatham@gmail.com" name="contact_form" id="contact-form" class="form-horizontal" role="form" method="POST">
                                 <div class="row">
                                     <div class="col-lg-6">
                                         <div class="form-group relative">
-                                            <input type="text" class="form-control input-white" id="FirstName" placeholder="First Name">
+                                            <input type="text" class="form-control input-white" id="FirstName" name="first_name" placeholder="First Name">
                                             <i class="far fa-user transform-v-center"></i>
                                         </div>
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="form-group relative">
-                                            <input type="text" class="form-control input-white" id="LastName" placeholder="Last Name">
+                                            <input type="text" class="form-control input-white" name="last_name" id="LastName" placeholder="Last Name">
                                             <i class="far fa-user transform-v-center"></i>
                                         </div>
                                     </div>
@@ -165,7 +166,7 @@
                                     </div>
                                     <div class="col-lg-6">
                                         <div class="form-group relative">
-                                            <input type="text" class="form-control input-white" id="PhoneNumber" placeholder="Phone Number">
+                                            <input type="text" class="form-control input-white" id="PhoneNumber" name="phone" placeholder="Phone Number">
                                             <i class="fas fa-phone transform-v-center"></i>
                                         </div>
                                     </div>
