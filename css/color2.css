@@ -105,7 +105,7 @@
 .check-list-2 li:before,
 .team-detail .check-list li span,
 .team-detail .social-icons li a i {
-    color: #74ebb9;
+    color: #ffffff;
 }
 
 
@@ -219,7 +219,7 @@ a.popular-post:hover .full-cover,
 .each-gallery .expand-gallery,
 .experience li:after,
 .experience li:before {
-    background: #74ebb9;
+    background: #ffffff;
 }
 
 
@@ -314,7 +314,7 @@ a.popular-post:hover .full-cover,
 .tags-small a,
 .blog-social li a,
 .each-shop-list:hover .shop-img {
-    border-color: #74ebb9;
+    border-color: #ffffff;
 }
 
 
@@ -325,14 +325,14 @@ a.popular-post:hover .full-cover,
 .cart-box-head,
 .login-section .card,
 .left-checkout .input-white:focus {
-    border-bottom-color: #74ebb9;
+    border-bottom-color: #ffffff;
 }
 
 
 /*border top*/
 
 .each-team .team-details:after {
-    border-top-color: #74ebb9;
+    border-top-color: #ffffff;
 }
 
 
@@ -340,7 +340,7 @@ a.popular-post:hover .full-cover,
 
 .link-line,
 .each-events:hover .date {
-    border-right-color: #74ebb9;
+    border-right-color: #ffffff;
 }
 
 
