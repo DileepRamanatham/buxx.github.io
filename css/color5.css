@@ -60,7 +60,7 @@
 .bill-section .nice-select .list,
 .contacts-list li .icon,
 .each-gallery .expand-gallery {
-    color: #1f2221;
+    color: #231047;
 }
 
 
@@ -105,7 +105,7 @@
 .check-list-2 li:before,
 .team-detail .check-list li span,
 .team-detail .social-icons li a i {
-    color: #ffffff;
+    color: #74ebb9;
 }
 
 
@@ -127,42 +127,42 @@ body,
 .block-quote-by:before,
 .price-detail ul,
 .errors[data-overlay]:before {
-    background: #1f2221;
+    background: #231047;
 }
 
 
 /*black bg opacity classes*/
 
 .bg-black-op-9 {
-    background: rgba(31, 34, 33, 0.9);
+    background: rgba(35, 16, 71, 0.9);
 }
 
 .bg-black-op-8 {
-    background: rgba(31, 34, 33, 0.8);
+    background: rgba(35, 16, 71, 0.8);
 }
 
 .bg-black-op-7 {
-    background: rgba(31, 34, 33, 0.7);
+    background: rgba(35, 16, 71, 0.7);
 }
 
 .bg-black-op-6 {
-    background: rgba(31, 34, 33, 0.6);
+    background: rgba(35, 16, 71, 0.6);
 }
 
 .bg-black-op-5 {
-    background: rgba(31, 34, 33, 0.5);
+    background: rgba(35, 16, 71, 0.5);
 }
 
 .bg-black-op-4 {
-    background: rgba(31, 34, 33, 0.4);
+    background: rgba(35, 16, 71, 0.4);
 }
 
 .bg-black-op-3 {
-    background: rgba(31, 34, 33, 0.3);
+    background: rgba(35, 16, 71, 0.3);
 }
 
 .bg-black-op-2 {
-    background: rgba(31, 34, 33, 0.2);
+    background: rgba(35, 16, 71, 0.2);
 }
 
 .bg-black-op-1 {
@@ -170,7 +170,7 @@ body,
 }
 
 .bg-black-op-0 {
-    background: rgba(31, 34, 33, 0);
+    background: rgba(35, 16, 71, 0);
 }
 
 
@@ -226,70 +226,70 @@ a.popular-post:hover .full-cover,
 /*green bg opacity classes*/
 
 .bg-green-op-9 {
-    background: rgba(14, 252, 154, 0.9);
+    background: rgba(116, 235, 185, 0.9);
 }
 
 .bg-green-op-8 {
-    background: rgba(14, 252, 154, 0.8);
+    background: rgba(116, 235, 185, 0.8);
 }
 
 .bg-green-op-7 {
-    background: rgba(14, 252, 154, 0.7);
+    background: rgba(116, 235, 185, 0.7);
 }
 
 .bg-green-op-6 {
-    background: rgba(14, 252, 154, 0.6);
+    background: rgba(116, 235, 185, 0.6);
 }
 
 .bg-green-op-5 {
-    background: rgba(14, 252, 154, 0.5);
+    background: rgba(116, 235, 185, 0.5);
 }
 
 .bg-green-op-4 {
-    background: rgba(14, 252, 154, 0.4);
+    background: rgba(116, 235, 185, 0.4);
 }
 
 .bg-green-op-3 {
-    background: rgba(14, 252, 154, 0.3);
+    background: rgba(116, 235, 185, 0.3);
 }
 
 .bg-green-op-2 {
-    background: rgba(14, 252, 154, 0.2);
+    background: rgba(116, 235, 185, 0.2);
 }
 
 .bg-green-op-1 {
-    background: rgba(14, 252, 154, 0.1);
+    background: rgba(116, 235, 185, 0.1);
 }
 
 
 /*shadow green*/
 
 .blob {
-    box-shadow: 0 0 0 0 rgb(14, 252, 154);
+    box-shadow: 0 0 0 0 rgb(116, 235, 185);
     animation: pulse-blue 2s infinite;
 }
 
 @keyframes pulse-blue {
     0% {
-        box-shadow: 0 0 0 0 rgba(14, 252, 154, 0.7);
+        box-shadow: 0 0 0 0 rgba(116, 235, 185, 0.7);
     }
     70% {
-        box-shadow: 0 0 0 30px rgba(14, 252, 154, 0);
+        box-shadow: 0 0 0 30px rgba(116, 235, 185, 0);
     }
     100% {
-        box-shadow: 0 0 0 0 rgba(14, 252, 154, 0);
+        box-shadow: 0 0 0 0 rgba(116, 235, 185, 0);
     }
 }
 
 @keyframes pulse-blue-small {
     0% {
-        box-shadow: 0 0 0 0 rgba(14, 252, 154, 0.7);
+        box-shadow: 0 0 0 0 rgba(116, 235, 185, 0.7);
     }
     70% {
-        box-shadow: 0 0 0 15px rgba(14, 252, 154, 0);
+        box-shadow: 0 0 0 15px rgba(116, 235, 185, 0);
     }
     100% {
-        box-shadow: 0 0 0 0 rgba(14, 252, 154, 0);
+        box-shadow: 0 0 0 0 rgba(116, 235, 185, 0);
     }
 }
 
@@ -314,7 +314,7 @@ a.popular-post:hover .full-cover,
 .tags-small a,
 .blog-social li a,
 .each-shop-list:hover .shop-img {
-    border-color: #ffffff;
+    border-color: #74ebb9;
 }
 
 
@@ -325,14 +325,14 @@ a.popular-post:hover .full-cover,
 .cart-box-head,
 .login-section .card,
 .left-checkout .input-white:focus {
-    border-bottom-color: #ffffff;
+    border-bottom-color: #74ebb9;
 }
 
 
 /*border top*/
 
 .each-team .team-details:after {
-    border-top-color: #ffffff;
+    border-top-color: #74ebb9;
 }
 
 
@@ -340,7 +340,7 @@ a.popular-post:hover .full-cover,
 
 .link-line,
 .each-events:hover .date {
-    border-right-color: #ffffff;
+    border-right-color: #74ebb9;
 }
 
 
@@ -350,5 +350,5 @@ a.popular-post:hover .full-cover,
 
 .border-black,
 .btn-default.black {
-    border-color: #1f2221;
+    border-color: #231047;
 }
