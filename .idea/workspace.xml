@@ -33,11 +33,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585637545707</updated>
-      <workItem from="1585637547225" duration="13984000" />
+      <workItem from="1585637547225" duration="15556000" />
+      <workItem from="1585828779173" duration="625000" />
+      <workItem from="1585832487973" duration="1482000" />
+      <workItem from="1585839243250" duration="600000" />
+      <workItem from="1585849281317" duration="386000" />
+      <workItem from="1585851746127" duration="59000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585851040825">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585851040825" />
   </component>
 </project>
