@@ -3569,3 +3569,18 @@ ul.theme-ul li img {
     line-height: 19px;
     color: #000;
 }
+.black-button {
+
+    color: white !important;
+    border-color: white !important;
+}
+.gallery-links{
+    background: white !important;
+}
+.contact-form[data-overlay]:before {
+
+    background: white !important;
+}
+.btn-default.black:hover span {
+       background: white !important;
+}
