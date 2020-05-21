@@ -803,6 +803,7 @@ label {
     border: none;
     position: relative;
     border-radius: 5px;
+    border: 1px solid #333;
     height: 51px;
     padding: 0px 25px;
 }
